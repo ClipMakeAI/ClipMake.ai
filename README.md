@@ -62,9 +62,9 @@ The output is designed to be indistinguishable from real UGC content.
 **A:** Every plan includes revision credits (3 on Starter, 5 on Growth, 20 on Agency).  
 Use a revision credit to re-render instead of spending a regular credit.
 
-https://clipmake.ai
-
 ---
 
 ### 6. Q: Can I generate multiple videos at once?
 **A:** Yes. Batch generation lets you create dozens of variations in a single session — different hooks, actors, scenes, and scripts.
+
+https://clipmake.ai
